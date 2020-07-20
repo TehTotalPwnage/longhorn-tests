@@ -234,6 +234,15 @@ Case 1:  Disable the setting auto-salvage. Create and attach a volume. Keep writ
     </item>
     
     <item>
+      <title>Test Test</title>
+      <link>https://longhorn.github.io/longhorn-tests/manual/release-specific/v1.0.0/test-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://longhorn.github.io/longhorn-tests/manual/release-specific/v1.0.0/test-test/</guid>
+      <description>test test</description>
+    </item>
+    
+    <item>
       <title>Testing ext4 with custom fs params1 (no 64bit, no metadata_csum)</title>
       <link>https://longhorn.github.io/longhorn-tests/manual/pre-release/environment/suse-sles12sp3/ext4-custom-fs-params-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
